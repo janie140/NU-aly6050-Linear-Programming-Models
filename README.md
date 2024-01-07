@@ -1,5 +1,5 @@
 # NU-aly6050-Linear-Programming-Models
-Using Linear Programming Models to maximize profits
+Using Linear Programming Models in Excel to maximize profits
 
 Introduction
 
